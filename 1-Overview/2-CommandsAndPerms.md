@@ -9,11 +9,11 @@
 <br />
 
 ### Other Commands
-* **/addbalance <Player> <Currency> <Value>**
+* **/addbalance (Player) (Currency) (Value)**
   Add the given *value* as *currency* to the *players* balance
-* **/removebalance <Player> <Currency> <Value>**
+* **/removebalance (Player) (Currency) (Value)**
   Add the given *value* as *currency* to the *players* balance
-* **/setbalance <Player> <Currency> <Value>**
+* **/setbalance (Player) (Currency) (Value)**
   Set a value as *currency* to the *players* balance  
 
 <br />
