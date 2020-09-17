@@ -1,5 +1,8 @@
 ## Commands and Permissions
 
+
+
+### Player Commands
 * **/uecon** to open the Administrative GUI
 (Requires ``ultraeconomy.admin``)
 
@@ -8,7 +11,6 @@
 
 
 ### Other Commands
-
 * **/addbalance <Player> <Currency> <Value>**
   Add the given *value* as *currency* to the *players* balance
 * **/removebalance <Player> <Currency> <Value>**
