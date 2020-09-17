@@ -1,6 +1,6 @@
 # Welcome!
 
-Thanks for choosing ``Ultra Economy``!
+Thanks for choosing *Ultra Economy*!
 After installing you just need to add the ``ultraeconomy.admin`` permission to yourself and execute **/uecon**.
 
 <br />
