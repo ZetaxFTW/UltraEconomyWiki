@@ -5,7 +5,7 @@ After installing you just need to add the ``ultraeconomy.admin`` permission to y
 
 <br />
 
-If you are running a Network out of multiple Servers, install Ultra Economy also on your BungeeCord & setup MySQL on every Server via the Settings GUI.
+If you are using BungeeCord, install Ultra Economy there as well and setup MySQL on every Server.
 The MySQL Settings can be accessed from */uecon > Settings > MySQL*
 
 <br />
