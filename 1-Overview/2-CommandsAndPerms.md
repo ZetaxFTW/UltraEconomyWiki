@@ -5,7 +5,6 @@
 ### Player Commands
 * **/uecon** to open the Administrative GUI
 (Requires ``ultraeconomy.admin``)
-
 * **/balance** to open the Balance View
 (To use the balance set functionality you need to have ``ultraeconomy.cheat``)
 
