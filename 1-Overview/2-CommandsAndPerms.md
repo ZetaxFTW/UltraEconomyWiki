@@ -6,7 +6,7 @@
 * **/balance** to open the Balance View
   (To use the balance set functionality you need to have ``ultraeconomy.cheat``)
   
-  
+<br />
 
 ### Other Commands
 * **/addbalance <Player> <Currency> <Value>**
@@ -16,5 +16,5 @@
 * **/setbalance <Player> <Currency> <Value>**
   Set a value as *currency* to the *players* balance  
 
-\
+<br />
 All of these commands require the ``ultraeconomy.admin`` permission, if you plan to use them manually.
