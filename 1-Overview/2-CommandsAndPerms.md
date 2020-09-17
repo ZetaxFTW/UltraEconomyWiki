@@ -16,5 +16,5 @@
 * **/setbalance <Player> <Currency> <Value>**
   Set a value as *currency* to the *players* balance  
 
-
+\
 All of these commands require the ``ultraeconomy.admin`` permission, if you plan to use them manually.
