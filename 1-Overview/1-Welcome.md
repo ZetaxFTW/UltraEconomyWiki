@@ -3,10 +3,9 @@
 Thanks for choosing *Ultra Economy*!
 After installing you just need to add the ``ultraeconomy.admin`` permission to yourself and execute **/uecon**.
 
-<br />
+<br>
 
-If you are using BungeeCord, install Ultra Economy there as well and setup MySQL on every Server.
-The MySQL Settings can be accessed from */uecon > Settings > MySQL*
+Your players need to have the ``insaneshops.create`` permission to create their own shops. If your players should be allowed to make sell-shops you also have to add the ``insaneshops.create.sellshop`` permission.
 
 <br />
 
