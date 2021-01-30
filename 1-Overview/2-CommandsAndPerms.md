@@ -15,6 +15,8 @@
   Add the given *value* as *currency* to the *players* balance
 * **/setbalance (Player) (Currency) (Value)**
   Set a value as *currency* to the *players* balance  
+* **/balancetop (currency) | /baltop (currency)**
+  Look at the top 10 players balance for the selected currency.
   
   ### Placeholders
   ``%uecon_balance_###_total%`` 
