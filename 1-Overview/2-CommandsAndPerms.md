@@ -25,6 +25,10 @@
   To get the hand balance of a player
   ``%uecon_balance_###_bank%``
   To get the bank balance of a player
+  ``%uecon_balancetop_<currency>_name_<place>``
+  To get the name of a player who is in a specific place from baltop
+  ``%uecon_balancetop_<currency>_balance_<place>``
+  To get the top amount of a specific currency a player in a specific spot has
    
 <br />
 
