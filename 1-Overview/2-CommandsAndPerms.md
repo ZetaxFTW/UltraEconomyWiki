@@ -16,7 +16,7 @@
 * **/setbalance (Player) (Currency) (Value)**
   Set a value as *currency* to the *players* balance  
 * **/balancetop (currency) | /baltop (currency)**
-  Look at the top 10 players balance for the selected currency.
+  Look at the top 10 players balance for the selected currency
   (To use the balancetop command you need to have ``ultraeconomy.balancetop``)
   
   ### Placeholders
